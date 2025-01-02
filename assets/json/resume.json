@@ -121,7 +121,7 @@
       "name": "Simple Markov Chain",
       "summary": "Takes in a text file as input to create a simple markov chain. Based on the input corpus, generates a sequence of words."
     }
-  ]
+  ],
   "volunteer": [
     {
       "organization": "Nirmaan Organisation",
