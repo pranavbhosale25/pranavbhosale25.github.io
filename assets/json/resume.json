@@ -22,6 +22,17 @@
       }
     ]
   },
+   "education": [
+    {
+      "institution": "Birla Institute of Technology and Science (BITS Pilani)",
+      "location": "Goa, India",
+      "url": "https://www.bits-pilani.ac.in/goa/",
+      "area": "Computer Science Engineering",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2017-08-01",
+      "endDate": "2021-05-01"
+    }
+  ],
   "work": [
     {
       "name": "DigiCert Inc.",
@@ -29,7 +40,7 @@
       "url": "https://digicert.com",
       "startDate": "2024-01-01",
       "endDate": "PRESENT",
-      "summary": "DigiCert is the leading global provider of Digital Trust and Public Key Infrastructure",
+      "summary": "Leading global provider of Digital Trust and Public Key Infrastructure",
       "highlights": ["Building Trust Lifecycle Manager, a full-stack solution for centralized digital trust needs of enterprises", "Solving for Post Quantum Cryptography certificate issuance"]
     }, 
     {
@@ -39,7 +50,7 @@
       "startDate": "2021-07-01",
       "endDate": "2023-12-01",
       "summary": "BlueJeans by Verizon: Enterprise grade virtual events and webinar platform",
-      "highlights": ["Developed and maintained Spring based microservices for BlueJeansEvents that supported upto 500k attendees in web conferences with significant primary ownership of around 10 microservices",
+      "highlights": ["Developed and maintained Spring based microservices for BlueJeans Events that supported upto 500k attendees in web conferences with significant primary ownership of around 10 microservices",
         "Integrated an RTMP video streaming solution utilizing Amazon IVS enabling delivery of low-latency content. Requested by over 30 enterprise customers",
         "Pioneered a GDPR-compliant user data deletion feature, leveraging AWS Step Functions to systematically purge user data, facilitating the daily deletion of thousands of users in alignment with European regulations",
         "Implemented real-time alerting for various scheduled tasks, encompassing billing alerts, event registrations and reminders, and multiple health checks",
@@ -79,29 +90,68 @@
         "Developed expertise in ArcGIS, handling vector and raster data, geodatabases, ArcToolbox, and environmental analysis, along with the publication of web maps"]
     }
   ],
+  "projects": [
+    {
+      "name": "Invasive Species Monitoring",
+      "summary": " Convolutional Neural Networks, Tensorflow, Keras, numpy, pandas",
+      "highlights": ["Explored the biological consequences of globalization and the challenges posed by invasive species for a term paper", 
+        "Applied a CNN model to a Kaggle Dataset, achieving a 75% accuracy in identifying hydrangeas"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://github.com/pranavbhosale25/invasive-species-monitoring"
+    }, 
+    {
+      "name": "NIR Spectroscopy based Apple Classification",
+      "summary": "Machine Learning, sklearn",
+      "highlights": ["Successfully reproduced the findings of a paper predicting apple origin through spectral data from NIR spectroscopy", 
+        "Reduced dimensionality via Principal Component Analysis, and trained a Support Vector Machine model achieving 100% accuracy in binary classification of apples"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://github.com/pranavbhosale25/NIR-spectroscopy-apples"
+    },
+    {
+      "name": "Nand to Tetris",
+      "summary": "Build a Modern Computer from First Principles",
+      "highlights": ["Built components like logic gates, adders, multiplexers and demultiplexers, Arithmetic Logic Unit (ALU) and a CPU"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "www.nand2tetris.org"
+    },
+    {
+      "name": "Simple Markov Chain",
+      "summary": "Takes in a text file as input to create a simple markov chain. Based on the input corpus, generates a sequence of words."
+    }
+  ]
   "volunteer": [
     {
-      "organization": "People's Climate March",
+      "organization": "Nirmaan Organisation",
       "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
+      "position": "Publicity, Content and Design Head",
       "url": "https://example.com",
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
+    }, 
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
+      "organization": "The Barabari Collective",
+      "location": "Remote",
+      "position": "Programming Instructor",
+      "url": "https://www.barabaricollective.org/",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+    }, 
+    {
+      "organization": "Mentors Without Borders",
       "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "position": "Programming Instructor",
+      "url": "https://www.mentorswithoutborders.net/",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "awards": [
@@ -232,15 +282,6 @@
       "icon": "fa-solid fa-thumbtack",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
   ]
+  
 }
