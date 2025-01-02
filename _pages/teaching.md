@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: "Education is the most powerful weapon which you can use to change the world." The following are my volunteering experiences in education
+description: Nelson Mandela said - Education is the most powerful weapon which you can use to change the world. The following are my volunteering experiences for education
 nav: true
 nav_order: 6
 ---
