@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Software Engineer | BITS Pilani alum
 
 profile:
   align: right
@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello there! I'm Pranav - a software engineer with over four years of experience. 
+Hello there! I'm Pranav - a software engineer with over four years of experience developing scalable, enterprise systems.
 
 I am passionate about climate-change and I look forward to making meaningful contributions at the intersection of technology and climate change. 
 
