@@ -2,11 +2,19 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: "Education is the most powerful weapon which you can use to change the world." The following are my volunteering experiences in education
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Nirmaan Organisation 
+- Taught mathematics twice a week for over two years at Zari, Goa - a slum-settlement near my undergraduate university campus
+- Conducted several workshops and activities involving music, art, games to provide a holistic learning experience and retain students
 
-Organize your courses by years, topics, or universities, however you like!
+Mentors Without Borders 
+- Programming Instructor for two students - Harinder from Punjab, India and Peter from Liberia
+- Taught fundamentals of computer science and web development using HTML, CSS and JavaScript 
+
+The Baraabari Collective
+- One-on-one mentoring sessions over six months
+- Focused around data structures and algorithms, problem solving and interview preparation for software developer jobs
