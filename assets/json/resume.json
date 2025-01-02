@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Pranav Bhosale",
+    "label": "Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "pranavbhosale25@gmail.com",
+    "phone": "+91 96648 77577",
+    "url": "https://pranavbhosale25.github.io/",
+    "summary": "Software engineer with over four years of experience working with Java, Spring Boot, Amazon Web Services, K8s. Passionate about climate-tech",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,13 +24,59 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "DigiCert Inc.",
+      "position": "Software Engineer 2 ",
+      "url": "https://digicert.com",
+      "startDate": "2024-01-01",
+      "endDate": "PRESENT",
+      "summary": "DigiCert is the leading global provider of Digital Trust and Public Key Infrastructure",
+      "highlights": ["Building Trust Lifecycle Manager, a full-stack solution for centralized digital trust needs of enterprises", "Solving for Post Quantum Cryptography certificate issuance"]
+    }, 
+    {
+      "name": "Verizon",
+      "position": "Software Engineer",
+      "url": "https://verizon.com",
+      "startDate": "2021-07-01",
+      "endDate": "2023-12-01",
+      "summary": "BlueJeans by Verizon: Enterprise grade virtual events and webinar platform",
+      "highlights": ["Developed and maintained Spring based microservices for BlueJeansEvents that supported upto 500k attendees in web conferences with significant primary ownership of around 10 microservices",
+        "Integrated an RTMP video streaming solution utilizing Amazon IVS enabling delivery of low-latency content. Requested by over 30 enterprise customers",
+        "Pioneered a GDPR-compliant user data deletion feature, leveraging AWS Step Functions to systematically purge user data, facilitating the daily deletion of thousands of users in alignment with European regulations",
+        "Implemented real-time alerting for various scheduled tasks, encompassing billing alerts, event registrations and reminders, and multiple health checks",
+        "Interned for five months from Aug-Dec 2020, concluding with a return offer"
+      ]
+    },
+    {
+      "name": "Superset",
+      "position": "Full Stack Developer",
+      "url": "https://joinsuperset.com",
+      "startDate": "2021-02-01",
+      "endDate": "2021-07-01",
+      "summary": "Recruitment infrastructure to manage campus hiring",
+      "highlights": ["Worked with a small team contributing to web apps utilized by 600+ universities and 3500+ companies",
+        "Developed a data collection portal for Capgemini with AngularJS frontend and Java-Spring backend, instrumental in collecting placement data for colleges and hiring over 15,000 freshers",
+        "Pioneered a GDPR-compliant user data deletion feature, leveraging AWS Step Functions to systematically purge user data, facilitating the daily deletion of thousands of users in alignment with European regulations",
+        "Automated high-load technical support through Zoho Workflows, nearly eliminating manual email responses that previously took over 2 days. Also established a subscriptions marketplace for university clients"
+      ]
+    },
+    {
+      "name": "Leap Club",
+      "position": "Research Intern",
+      "url": "https://swadesiway.com",
+      "startDate": "2020-06-01",
+      "endDate": "2020-08-01",
+      "summary": "Organic Food and Groceries Marketplace ",
+      "highlights": [" Conducted research on cost-effective, portable, and swift food authentication, identifying NIR spectroscopy as the optimal technique and exploring ML models for the classification of organic food"]
+    },
+    {
+      "name": "Saar GeoSpatial",
+      "position": "GIS Intern",
+      "url": "https://saarit.in",
+      "startDate": "2019-07-01",
+      "endDate": "2019-08-01",
+      "summary": "GIS Services Provider",
+      "highlights": ["Engaged closely in the creation and management of geographic data for a tree census conducted by the Mumbai Municipal Corporation (MCGM)",
+        "Developed expertise in ArcGIS, handling vector and raster data, geodatabases, ArcToolbox, and environmental analysis, along with the publication of web maps"]
     }
   ],
   "volunteer": [
