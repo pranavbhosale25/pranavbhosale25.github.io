@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "Nelson Mandela said - Education is the most powerful weapon which you can use to change the world. The following are my volunteering experiences for education",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
