@@ -24,4 +24,3 @@ I enjoy running. I took this up in college and started running more often over t
 
 I have lived and loved the cities of Mumbai, Goa and finally Bangalore (where I currently reside). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
