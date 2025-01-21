@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Please find my CV with details of my work experience and projects. You can also download a single-page version of my resume using the button on the right.",
+          description: "Please find my CV with details of my work experience and projects. You can also download my resume using the button on the right.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
