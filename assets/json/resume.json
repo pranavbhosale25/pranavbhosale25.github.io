@@ -80,6 +80,15 @@
       "highlights": [" Conducted research on cost-effective, portable, and swift food authentication, identifying NIR spectroscopy as the optimal technique and exploring ML models for the classification of organic food"]
     },
     {
+      "name": "Community Energy Labs",
+      "position": "Summer Intern",
+      "url": "https://communityenergylabs.com/",
+      "startDate": "2020-06-01",
+      "endDate": "2020-08-01",
+      "summary": "Energy Management Solution ",
+      "highlights": ["Implemented a demo of the open source energy flexibility and demand-side management (DSM) platform PowerMatcher"]
+    },
+    {
       "name": "Saar GeoSpatial",
       "position": "GIS Intern",
       "url": "https://saarit.in",
@@ -96,8 +105,8 @@
       "summary": " Convolutional Neural Networks, Tensorflow, Keras, numpy, pandas",
       "highlights": ["Explored the biological consequences of globalization and the challenges posed by invasive species for a term paper", 
         "Applied a CNN model to a Kaggle Dataset, achieving a 75% accuracy in identifying hydrangeas"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
+      "startDate": "2021-11-01",
+      "endDate": "2021-12-01",
       "url": "https://github.com/pranavbhosale25/invasive-species-monitoring"
     }, 
     {
@@ -105,33 +114,36 @@
       "summary": "Machine Learning, sklearn",
       "highlights": ["Successfully reproduced the findings of a paper predicting apple origin through spectral data from NIR spectroscopy", 
         "Reduced dimensionality via Principal Component Analysis, and trained a Support Vector Machine model achieving 100% accuracy in binary classification of apples"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
+     "startDate": "2020-11-01",
+      "endDate": "2020-12-01",
       "url": "https://github.com/pranavbhosale25/NIR-spectroscopy-apples"
     },
     {
       "name": "Nand to Tetris",
       "summary": "Build a Modern Computer from First Principles",
       "highlights": ["Built components like logic gates, adders, multiplexers and demultiplexers, Arithmetic Logic Unit (ALU) and a CPU"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
+      "startDate": "2020-04-01",
+      "endDate": "2020-05-01",
       "url": "www.nand2tetris.org"
     },
     {
       "name": "Simple Markov Chain",
-      "summary": "Takes in a text file as input to create a simple markov chain. Based on the input corpus, generates a sequence of words."
+      "summary": "Takes in a text file as input to create a simple markov chain. Based on the input corpus, generates a sequence of words.",
+      "startDate": "2021-11-01",
+      "endDate": "2021-12-01"
     }
   ],
   "volunteer": [
     {
       "organization": "Nirmaan Organisation",
-      "location": "Zurich, Switzerland",
+      "location": "Goa, India",
       "position": "Publicity, Content and Design Head",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "url": "https://nirmaan.org/",
+      "startDate": "2017-08-01",
+      "endDate": "2021-05-01",
+      "summary": "Core member of the team that managed 80+ volunteers and conducted over 25 events throughout the year",
+      "highlights": ["Managed social media presence of the NGO, in-charge of event publicity, designing newsletters, social media posts, and posters. Personally led a team of 10 volunteers",
+        "Part of the team of 30+ volunteers that tutored underprivileged high school children for three years. Was instrumental in providing academic assistance and imparting holistic education"]
     }, 
     {
       "organization": "The Barabari Collective",
@@ -140,148 +152,71 @@
       "url": "https://www.barabaricollective.org/",
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "summary": "Tech Mentorship role at non-profit ",
+      "highlights": ["Conducted one-on-one meetings over six months for software developer interview preparation, data structures and algorithms practice, mock interviews, and resume reviews."]
     }, 
     {
       "organization": "Mentors Without Borders",
-      "location": "Zurich, Switzerland",
+      "location": "Remote/Virtual",
       "position": "Programming Instructor",
       "url": "https://www.mentorswithoutborders.net/",
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "summary": "Tutoring students with partner NGOs",
+      "highlights": ["Mentored two students from disadvantaged backgrounds (from Liberia and India) in basic computer science concepts and web development, including HTML, CSS, and JavaScript"]
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Java", "C++", "Go", "C", "Python", "JavaScript"
+      ]
+    }, 
+    {
+      "name": "Technologies/Frameworks",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Spring", "Spring Boot", "AngularJS", "React", "Docker", "Kubernetes", "Tensorflow", "sklearn"
+      ]
+    },
+    {
+      "name": "Others",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Amazon Web Services", "Git", "MySQL", "DynamoDB", "SQS", "MariaDB", "Agile"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Fluent",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Hindi",
+      "fluency": "Native Speaker",
+      "icon": ""
+    },
+    {
+      "language": "Marathi",
+      "fluency": "Native Speaker",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Climate Tech",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "AI and Climate",
+        "Energy Science"
       ]
     }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
   ]
-  
 }
