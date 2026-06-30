@@ -3,24 +3,16 @@
     "name": "Pranav Bhosale",
     "label": "Software Engineer",
     "image": "",
-    "email": "pranavbhosale25@gmail.com",
-    "phone": "+91 96648 77577",
+    "email": "bpranav@cmu.edu",
+    "phone": "+1 4126702717",
     "url": "https://pranavbhosale25.github.io/",
     "summary": "Software engineer with over four years of experience working with Java, Spring Boot, Amazon Web Services, K8s. Passionate about climate-tech",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "city": "Pittsburgh",
       "countryCode": "US",
-      "region": "California"
+      "region": "Pennsylvania"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": []
   },
    "education": [
     {
