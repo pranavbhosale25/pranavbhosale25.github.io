@@ -16,6 +16,15 @@
   },
    "education": [
     {
+      "institution": "Carnegie Mellon University",
+      "location": "Pittsburgh, PA",
+      "url": "https://www.cmu.edu/",
+      "area": "Artificial Intelligence - Energy Science, Technology & Policy",
+      "studyType": "Master of Science",
+      "startDate": "2025-08-01",
+      "endDate": "2026-12-01"
+    },
+    {
       "institution": "Birla Institute of Technology and Science (BITS Pilani)",
       "location": "Goa, India",
       "url": "https://www.bits-pilani.ac.in/goa/",
@@ -26,6 +35,18 @@
     }
   ],
   "work": [
+    {
+      "name": "Nucor Towers & Structures",
+      "position": "Software Engineering Intern",
+      "url": "https://www.nucor.com/",
+      "startDate": "2026-06-01",
+      "endDate": "",
+      "summary": "Rock Hill, SC",
+      "highlights": [
+        "Designed, built, and deployed a Blazor-based weld validation tool for robotic arms on electrical transmission poles. Sole engineer and PM, delivering end-to-end: UI/UX, Azure CI/CD, logging, monitoring and production deployment",
+        "Integrated Microsoft Power Apps to automate offer letter generation and translation for the HR department"
+      ]
+    },
     {
       "name": "DigiCert Inc.",
       "position": "Software Engineer 2 ",
@@ -92,6 +113,26 @@
     }
   ],
   "projects": [
+    {
+      "name": "Battery and Energy Storage Project Analysis Tool",
+      "summary": "Streamlit, Python, Techno-Economic Analysis | MIT Energy & Climate Hackathon",
+      "highlights": [
+        "Developed a Streamlit-based techno-economic analysis dashboard to evaluate battery storage projects using inputs such as industrial load curves, RTO market prices, battery capacity, degradation rates, round-trip efficiency, capital and O&M costs and project lifetime",
+        "Implemented modeling to estimate lifecycle costs, savings, and payback period under different operational scenarios, enabling users to compare battery sizing and market participation strategies"
+      ],
+      "startDate": "2025-11-01",
+      "endDate": "2025-11-30"
+    },
+    {
+      "name": "Data Center Carbon-Aware Scheduling with Co-Located Renewables",
+      "summary": "System Design, PJM Grid, BESS, Solar, Wind",
+      "highlights": [
+        "System design for a 100 MW flexible load data center using solar, wind and BESS to shift compute loads",
+        "Designed based on PJM's CO2 emissions modeled to reduce emissions by 33% or 100K ton CO2e annually"
+      ],
+      "startDate": "2026-02-01",
+      "endDate": "2026-02-28"
+    },
     {
       "name": "Invasive Species Monitoring",
       "summary": " Convolutional Neural Networks, Tensorflow, Keras, numpy, pandas",
